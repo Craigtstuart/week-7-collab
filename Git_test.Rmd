@@ -11,4 +11,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 What's up, Mikel!!!!
 
-the usual, doing some coding ! how are you??
+the usual, doing some coding ! how are you?
+
+Love me some coding. Doing well!
