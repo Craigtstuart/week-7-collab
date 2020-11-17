@@ -14,3 +14,8 @@ What's up, Mikel!!!!
 the usual, doing some coding ! how are you?
 
 Love me some coding. Doing well!
+
+```{r}
+plot(1:10)
+```
+wow such a beautiful plot
